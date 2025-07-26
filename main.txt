@@ -1,4 +1,4 @@
 local Spawner = loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
 Spawner.Load()
 task.wait(1)
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/OYbW5kbveZ8sM1FO/raw", true))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Fswb7Dk1gDmthm12/raw", true))()
